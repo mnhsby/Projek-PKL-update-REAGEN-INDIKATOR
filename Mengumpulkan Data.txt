@@ -1,1 +1,4 @@
-
+Tindakan
+1 Mengamati alat
+2 Mengamati software .ino
+3 Mengamati software .iai
